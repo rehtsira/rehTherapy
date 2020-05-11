@@ -1,11 +1,12 @@
 # <div align="center">rehTherapy</div>
 Mock physical therapy SQL Database for Database Design and Management.
 
+<b><h1>Logical Data Model</h1></b></br>
 ![rehTherapy](https://github.com/rehtsira/rehtsira.github.io/blob/master/assets/img/rehtherapy.PNG)
 
 ![logicalmodel](https://github.com/rehtsira/rehTherapy/blob/master/LogicalDataModel.png)
 
-<b>Business Processes</b></br>
+<b><h1>Business Processes</h1></b></br>
 <i>Rules describing the relationships of these entities are as follows:</i></br>
 1.	A patient is someone who is being treated by the physician.
 2.	A physician is someone who treats a patient.
@@ -87,5 +88,5 @@ Mock physical therapy SQL Database for Database Design and Management.
 -	City: nvarchar(60)
 -	State: nvarchar(60)
 -	Zipcode: int
-g.	phoneNumber: bigint
-h.	Category: nvarchar(60)
+-	phoneNumber: bigint
+-	Category: nvarchar(60)
