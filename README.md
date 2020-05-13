@@ -1,9 +1,9 @@
 # <div align="center">rehTherapy</div>
 Mock physical therapy SQL Database for Database Design and Management.
 
-<b><h1>Logical Data Model</h1></b></br>
 ![rehTherapy](https://github.com/rehtsira/rehtsira.github.io/blob/master/assets/img/rehtherapy.PNG)
 
+<b><h1>Logical Data Model</h1></b></br>
 ![logicalmodel](https://github.com/rehtsira/rehTherapy/blob/master/LogicalDataModel.png)
 
 <b><h1>Business Processes</h1></b></br>
